@@ -24,7 +24,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@uiw/react-json-view": "^2.0.0-alpha.39",
-    "axios": "^1.8.3",
+    "axios": "^1.15.0",
     "date-fns": "^2.29.0",
     "fast-equals": "^5.4.0",
     "papaparse": "^5.5.3",
